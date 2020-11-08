@@ -8,13 +8,13 @@
 <p align="center"><em>My name is <strong>Eugene</strong>. I am a technology & javascript lover. I am always open to collaborate on projects,ideas and startups. Please do not hesitate to contact me.</em></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/evgenybertsovich/" target="_blank"> 
+  <a href="https://www.linkedin.com/in/evgenybertsovich/"> 
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evgenybertsovich/">
   </a>
-    <a href="https://www.instagram.com/evgeny_username/" target="_blank"> 
+    <a href="https://www.instagram.com/evgeny_username/"> 
     <img src="https://img.shields.io/badge/-instagram_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/evgeny_username/">
   </a>
-    <a href="mailto:evgenybertsovich@gmail.com" target="_blank"> 
+    <a href="mailto:evgenybertsovich@gmail.com"> 
     <img src="https://img.shields.io/badge/-evgenybertsovich@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evgenybertsovich@gmail.com">
   </a>
 </p>
