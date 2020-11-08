@@ -1,7 +1,7 @@
 <h1 align="center">Hi! ✋👨🏻‍💻</h3>
 
 <p align="center">
-    <img src="https://raw.githubusercontent.com/eugene-bert/eugene-bert/main/9Dk4MhcbdM9kNwNbrI.gif">
+    <img src="https://raw.githubusercontent.com/eugene-bert/eugene-bert/main/fxItITlIQgu1HhSucr.gif">
 </p>
 
 
