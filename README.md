@@ -1,5 +1,7 @@
 <h1 align="center">Hi! ✋👨🏻‍💻</h3>
 
+![Image header](./orig.gif)
+
 <p align="center"><em>My name is <strong>Eugene</strong>. I am a technology & javascript lover. I am always open to collaborate on projects,ideas and startups. Please don't hesitate to contact me. Nice to meet you!</em></p>
 
 <p align="center">
