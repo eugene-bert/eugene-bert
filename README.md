@@ -1,6 +1,9 @@
 <h1 align="center">Hi! ✋👨🏻‍💻</h3>
 
-![Image header](./orig.gif)
+<p align="center">
+    <img src="https://raw.githubusercontent.com/eugene-bert/eugene-bert/main/9Dk4MhcbdM9kNwNbrI.gif">
+</p>
+
 
 <p align="center"><em>My name is <strong>Eugene</strong>. I am a technology & javascript lover. I am always open to collaborate on projects,ideas and startups. Please don't hesitate to contact me. Nice to meet you!</em></p>
 
