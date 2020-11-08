@@ -19,14 +19,14 @@
 ![Apollo GraphQL](https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)
 
-<p align="center">
+<a>
   <img src="https://github-readme-stats.vercel.app/api?username=eugene-bert&count_private=true&show_icons=true&theme=nightowl&hide_title=true&bg_color=DEG,355C7D,6C5B7B,C06C84&hide_border=true" />
-</p>
+</a>
 
-<p align="center">
+<a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-bert&hide=TeX&layout=compact&theme=yeblu&bg_color=DEG,6C5B7B,C06C84&hide_title=true&hide_border=true" />
-</p>
+</a>
 
-<p align="center">
+<a align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=eugene-bert" />
-</p>
+</a>
