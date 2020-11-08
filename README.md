@@ -1,3 +1,5 @@
+## Hi! ✋👨🏻‍💻
+
 > *My name is **Eugene**. I am a technology & javascript lover. I am always open to collaborate on projects,ideas and startups. Please don't hesitate to contact me. Nice to meet you!*
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evgenybertsovich/)](https://www.linkedin.com/in/evgenybertsovich/)
@@ -20,10 +22,10 @@
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=eugene-bert&count_private=true&show_icons=true&theme=nightowl&hide_title=true&bg_color=DEG,355C7D,6C5B7B,C06C84&hide_border=true)
 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-bert&hide=TeX&layout=compact&theme=yeblu&bg_color=DEG,6C5B7B,C06C84&hide_title=true&hide_border=true" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-bert&hide=TeX&layout=compact&theme=yeblu&bg_color=DEG,6C5B7B,C06C84&hide_title=true&hide_border=true" />
 </p>
 
-<p>
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=eugene-bert" />
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=eugene-bert" />
 </p>
