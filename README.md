@@ -35,11 +35,11 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=eugene-bert&count_private=true&show_icons=true&theme=nightowl&hide_title=true&bg_color=DEG,355C7D,6C5B7B,C06C84&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=eugene-bert&count_private=true&show_icons=true&theme=buefy&hide_title=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-bert&hide=TeX&layout=compact&theme=yeblu&bg_color=DEG,6C5B7B,C06C84&hide_title=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-bert&hide=TeX&layout=compact&theme=buefy&hide_title=true&hide_border=true" />
 </p>
 
 <p align="center">
