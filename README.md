@@ -4,17 +4,29 @@
     <img src="https://raw.githubusercontent.com/eugene-bert/eugene-bert/main/fxItITlIQgu1HhSucr.gif">
 </p>
 
+<p align="center">
+  <a>
+  <img src="https://img.shields.io/date/1541030400?label=Started coding">
+  </a>
+  <a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=eugene-bert" />
+  </a>
+  <a>
+  <img src="https://img.shields.io/github/followers/eugene-bert?label=Following">
+  </a>
+</p>
+
 
 <p align="center"><em>My name is <strong>Eugene</strong>. I am a technology & javascript lover. I am always open to collaborate on projects,ideas and startups. Please do not hesitate to contact me.</em></p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/evgenybertsovich/"> 
+  <a href="https://www.linkedin.com/in/evgenybertsovich/">
     <img src="https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evgenybertsovich/">
   </a>
-    <a href="https://www.instagram.com/evgeny_username/"> 
+    <a href="https://www.instagram.com/evgeny_username/">
     <img src="https://img.shields.io/badge/-instagram_-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/evgeny_username/">
   </a>
-    <a href="mailto:evgenybertsovich@gmail.com"> 
+    <a href="mailto:evgenybertsovich@gmail.com">
     <img src="https://img.shields.io/badge/-evgenybertsovich@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evgenybertsovich@gmail.com">
   </a>
 </p>
@@ -40,8 +52,4 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-bert&hide=TeX&layout=compact&theme=buefy&hide_title=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=eugene-bert" />
 </p>
