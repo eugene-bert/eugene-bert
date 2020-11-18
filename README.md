@@ -6,7 +6,7 @@
 
 <p align="center">
   <a>
-  <img src="https://img.shields.io/date/1541030400?label=Started coding">
+  <img src="https://img.shields.io/date/1541030400?label=started%20coding">
   </a>
   <a>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=eugene-bert" />
