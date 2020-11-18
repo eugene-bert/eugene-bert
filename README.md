@@ -40,7 +40,7 @@
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat&logo=Node.js">
 <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3">
-<img src="https://img.shields.io/badge/-sass-white?style=flat&logo=sass">
+<img src="https://img.shields.io/badge/-Sass-white?style=flat&logo=sass">
 <img src="https://img.shields.io/badge/-MongoDB-black?style=flat&logo=mongodb">
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql">
 <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql">
