@@ -44,6 +44,7 @@
 <img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql">
 <img src="https://img.shields.io/badge/-Apollo%20GraphQL-311C87?style=flat&logo=apollo-graphql">
 <img src="https://img.shields.io/badge/-Git-black?style=flat&logo=git">
+<img src="https://img.shields.io/badge/-jquery-blue?style=flat&logo=jquery">
 </p>
 
 <p align="center">
