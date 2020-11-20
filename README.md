@@ -12,7 +12,7 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=eugene-bert" />
   </a>
   <a>
-  <img src="https://img.shields.io/github/followers/eugene-bert?label=following">
+  <img src="https://img.shields.io/github/followers/eugene-bert?label=followers">
   </a>
 </p>
 
