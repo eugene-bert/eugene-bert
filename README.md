@@ -55,3 +55,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=eugene-bert&hide=TeX&layout=compact&theme=buefy&hide_title=true&hide_border=true" />
 </p>
+
+<p align="center">
+    <a href="https://youtube.com/playlist?list=PL6niyHiQgxkNC1AuRZttATuomJNly5ZQM"> <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube">  My programming music playlist </a>
+</p>
