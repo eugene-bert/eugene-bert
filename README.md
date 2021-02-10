@@ -57,5 +57,5 @@
 </p>
 
 <p align="center">
-    <a href="https://youtube.com/playlist?list=PL6niyHiQgxkNC1AuRZttATuomJNly5ZQM"> <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube">  My programming music playlist </a>
+    <a href="https://youtube.com/playlist?list=PL6niyHiQgxkNC1AuRZttATuomJNly5ZQM"> My programming music playlist <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube"></a>
 </p>
