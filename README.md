@@ -16,7 +16,6 @@
   </a>
 </p>
 
-
 <p align="center"><em>My name is <strong>Eugene</strong>. I am a technology & javascript lover. I am always open to collaborate on projects,ideas and startups. Please do not hesitate to contact me.</em></p>
 
 <p align="center">
@@ -59,3 +58,5 @@
 <p align="center">
     <a href="https://youtube.com/playlist?list=PL6niyHiQgxkNC1AuRZttATuomJNly5ZQM"> My music playlist <img src="https://img.shields.io/badge/-YouTube-red?style=flat&logo=YouTube"></a>
 </p>
+
+<p>Just test text</p>
