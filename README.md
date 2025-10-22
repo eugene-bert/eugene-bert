@@ -53,10 +53,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=eugene-bert&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=eugene-bert&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
-</div>
-
 ---
 
 <div align="center">
