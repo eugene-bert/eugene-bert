@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  <a href="https://eugenelab.org"><img src="https://img.shields.io/badge/eugenelab.org-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=4ade80" alt="Eugenelab.org"/></a>
+  <a href="https://eugenelab.org"><img src="https://img.shields.io/badge/eugenelab-0a0a0a?style=for-the-badge&logo=google-chrome&logoColor=4ade80" alt="eugenelab"/></a>
   <a href="https://articles.eugenelab.org"><img src="https://img.shields.io/badge/Articles-0a0a0a?style=for-the-badge&logo=hashnode&logoColor=4ade80" alt="Articles"/></a>
   <a href="https://www.linkedin.com/in/eugenebercowicz/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:me@eugenelab.org"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
